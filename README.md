@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋, I'm Muhammad!
 
-<!--
-**umair12012/umair12012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently a student of **Modern Web and App Development** at **Saylani Mass IT Training Program**.  
+💻 I'm passionate about building **modern web applications** and constantly working to enhance my development skills and capabilities.  
+🚀 My goal is to become a proficient **MERN Stack Developer** and eventually thrive in the field of **AI and generative bots**.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack I'm Learning:
+- HTML, CSS, JavaScript
+- React.js
+- Node.js, Express.js
+- MongoDB
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Current Goals:
+- Master the MERN Stack 💡
+- Build full-stack web applications 🛠️
+- Explore AI and generative technologies 🤖
+
+## 📫 Let's Connect!
+- Email: [umairsagheer@311gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/umair-sagheer-454216242/]
+  
+
+> “The best way to predict the future is to create it.” – Abraham Lincoln
+
+---
+
+Thanks for visiting my profile! 😊
